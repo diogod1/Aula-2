@@ -1,0 +1,15 @@
+C:\Users\diogduarte\Documents\GitHub\Aula-2\Ficha1\Ficha1\bin\Debug\net6.0\Ficha1.exe
+C:\Users\diogduarte\Documents\GitHub\Aula-2\Ficha1\Ficha1\bin\Debug\net6.0\Ficha1.deps.json
+C:\Users\diogduarte\Documents\GitHub\Aula-2\Ficha1\Ficha1\bin\Debug\net6.0\Ficha1.runtimeconfig.json
+C:\Users\diogduarte\Documents\GitHub\Aula-2\Ficha1\Ficha1\bin\Debug\net6.0\Ficha1.dll
+C:\Users\diogduarte\Documents\GitHub\Aula-2\Ficha1\Ficha1\bin\Debug\net6.0\Ficha1.pdb
+C:\Users\diogduarte\Documents\GitHub\Aula-2\Ficha1\Ficha1\obj\Debug\net6.0\Ficha1.csproj.AssemblyReference.cache
+C:\Users\diogduarte\Documents\GitHub\Aula-2\Ficha1\Ficha1\obj\Debug\net6.0\Ficha1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogduarte\Documents\GitHub\Aula-2\Ficha1\Ficha1\obj\Debug\net6.0\Ficha1.AssemblyInfoInputs.cache
+C:\Users\diogduarte\Documents\GitHub\Aula-2\Ficha1\Ficha1\obj\Debug\net6.0\Ficha1.AssemblyInfo.cs
+C:\Users\diogduarte\Documents\GitHub\Aula-2\Ficha1\Ficha1\obj\Debug\net6.0\Ficha1.csproj.CoreCompileInputs.cache
+C:\Users\diogduarte\Documents\GitHub\Aula-2\Ficha1\Ficha1\obj\Debug\net6.0\Ficha1.dll
+C:\Users\diogduarte\Documents\GitHub\Aula-2\Ficha1\Ficha1\obj\Debug\net6.0\refint\Ficha1.dll
+C:\Users\diogduarte\Documents\GitHub\Aula-2\Ficha1\Ficha1\obj\Debug\net6.0\Ficha1.pdb
+C:\Users\diogduarte\Documents\GitHub\Aula-2\Ficha1\Ficha1\obj\Debug\net6.0\Ficha1.genruntimeconfig.cache
+C:\Users\diogduarte\Documents\GitHub\Aula-2\Ficha1\Ficha1\obj\Debug\net6.0\ref\Ficha1.dll
